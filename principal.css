@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+.logoa{
+    width: 100%;
+}
+
+.botao{
+    width: 151px;
+    height: 42px;
+    font-size: 13pt; 
+    position: absolute; 
+    color: white;
+    border-color: rgb(255, 255, 255);  
+    background-color: rgba(255, 255, 255, 0);
+    top: 37px; 
+    right: 275px;
+    margin: auto;
+}
+
+.botred{
+    width: 132px;
+    height: 44px;
+    font-size: 14pt; 
+    position: absolute; 
+    color: white;
+    border-radius: 0.3em; 
+    border-color: black;
+    background-color: rgb(255, 0, 0);
+    top: 37px; 
+    right: 90px;
+    margin: auto;
+}
+
+.titulo{
+    position: absolute; 
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    flex-direction: column;
+    text-align: center; 
+    font-size: 42pt; 
+    top: 33px; 
+    right: 371px;
+    width: 50%;
+    color: white;
+}
+
+.sub-titulo{
+    position: absolute; 
+    width: 50%; 
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif; 
+    letter-spacing: 1px;
+    text-align: center; 
+    font-size: 24pt; 
+    top: 173px; 
+    right: 360px;
+    color: white;
+}
+
+.sub-titulo-ter{
+    position: absolute; 
+    width: 100%; 
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif; 
+    letter-spacing: 1px;
+    text-align: center; 
+    font-size: 17pt; 
+    top: 233px; 
+    right: 15px;
+    color: white;
+}
+
+.cadastro{
+    position: absolute; 
+    background:#EEE;
+    width:50%;
+    border:1px solid #222;
+    top: -1390px;
+    right: -370px;
+}
+
+.vamos{
+    background:#00cccc;
+    color:#FFF; 
+    margin:0 auto;
+    padding:10px;
+    border:0 none;
+    font-size:11px;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+/*
+.titulo{
+    position: relative; 
+    width: 50%; 
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif; 
+    text-align: center; 
+    font-size: 42pt; 
+    top: -555px; 
+    right: -370px;
+    color: white;
+}
+*/

@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-sub{
+    width: 100%;
+    height: 15vh;
+    background-color: black;
+
+}
+
+.make{
+    margin-left: 3%;
+    margin-top: 2%;
+}
+
+.meio{
+    width: 100%;
+    height: 80vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.centro{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0%;
+    margin-top: -80px;
+}
+
+.um{
+    margin: 0px 15px;
+    border-radius: 7px;
+}
+
+.um:hover{
+    border-radius: 350px;
+    
+}
+
+.final{
+    width: 100%;
+    height: 5vh;
+    background-color: black;
+    
+}
+
+.mais{
+    width: 123px;
+    height: 123px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: -41px;
+}
+
+.mais:hover{
+    background-color: white;
+}
+
+.bola{
+   border-radius: 300px;  
+}
+
+.nomes:hover{
+    border: 10px;
+    color: white;
+    
+    
+}

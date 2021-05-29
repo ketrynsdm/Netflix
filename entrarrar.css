@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo-entrar{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    position: relative;
+    background: #0000;
+    color: red;
+    font-size: 50px;
+    top: -1111px;
+    left: 26px;
+    
+}
+
+.box-meio {
+    width: 472px;
+    height: 544px;
+    background-color: rgba(0, 0, 0, 0.835);
+    position: relative;
+    margin-top: -899px;
+    left: calc(50% - 236px);
+    border-radius: 7px;
+}
+
+.box-por-meio{
+    width: 350px;
+    height: 380px;
+    background-color: rgba(0, 0, 0, 0.02);
+    position: relative;
+    top: 33px;
+    right: -44px;
+}
+
+.botao-entrar{
+    position: relative;  
+    top: 67px; 
+    right: -3px; 
+    padding: 20px 170px; 
+    border-color: black; 
+    margin: auto; 
+    color: white;
+    border-radius: 0.6em; 
+    border-color: black;
+    background-color: rgb(255, 0, 0);
+}
+
+.remenber{
+    color: #b3b3b3;
+    position: relative;
+    top: -78px;
+    left: 32px;
+}
+
+.informacao{
+    width: 100%;
+    margin-top: 144px;
+    padding-bottom: 212px;
+    background-color: rgba(0, 0, 0, 0.438);
+    position: relative;
+}
+
+.telefone{
+    font-size: normal 12pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 27px;
+    left: 169px;
+}
+
+.duvida{
+    font-size: normal 10pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 66px;
+    left: 169px;
+}
+
+.duvida-b{
+    font-size: normal 10pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 100px;
+    left: 169px;
+}
+
+.duvida-seg{
+    font-size: normal 10pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 66px;
+    left: 410px;
+}
+
+.duvida-segui{
+    font-size: normal 10pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 100px;
+    left: 410px;
+}
+
+.duvida-ter{
+    font-size: normal 10pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 66px;
+    left: 665px;
+}
+
+.duvida-quar{
+    font-size: normal 10pt Arial;
+    color: rgb(211, 211, 211);
+    position: absolute;
+    top: 66px;
+    left: 840px;
+}
